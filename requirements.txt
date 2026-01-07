@@ -1,0 +1,8 @@
+numpy
+open3d
+pygame
+pynput
+PyQt5
+pyqtgraph
+pyserial
+scipy
